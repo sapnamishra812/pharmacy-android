@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="app1_name">Material Designs</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">CLose</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_homeopathics">Homeopathic Medicine</string>
+    <string name="nav_item_ayurvedics">Ayurvedic Medicine</string>
+    <string name="nav_item_allopathics">Allopathic Medicine</string>
+    <string name="nav_item_notifications">Messages</string>
+
+    <!-- navigation drawer item labels -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_homeopathics</item>
+        <item>@string/nav_item_ayurvedics</item>
+        <item>@string/nav_item_allopathics</item>
+        <item>@string/nav_item_notifications</item>
+    </string-array>
+
+    <string name="title_messages">Messages</string>
+    <string name="title_allopathics">Allopathic Medicine</string>
+    <string name="title_ayurvedics">Ayurvedic Medicine9</string>
+    <string name="title_homeopathics">Homeopathic Medicine</string>
+    <string name="title_home">Home</string>
+    <string name="title_activity_home_drawer">HomeDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+</resources>
